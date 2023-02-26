@@ -1,5 +1,5 @@
 # 🤵 About Me:
-🔭|Hi! I am a Computer Engineering student at Universidade Federal de São Carlos (UFSCar), Brazil.<br>🛬| I'm currently working in the Control, specifically with UVA'S/Drones Flight Control, and Deep Learning areas.<br>🧑‍💻|Actually, I'm researching about the H infinity control using Deep Learning.<br>
+🔭|Hi! I am a Computer Engineering student at Universidade Federal de São Carlos (UFSCar), Brazil.<br>🛬|I'm currently working in the Control, specifically with UVA'S/Drones Flight Control, and Deep Learning areas.<br>🧑‍💻|Actually, I'm researching about the H infinity control using Deep Learning.<br>
 
    ##
 <div align="center">
@@ -14,7 +14,4 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GabrielBertho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielBertho&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBertho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
